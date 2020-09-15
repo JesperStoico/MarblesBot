@@ -1,0 +1,8 @@
+oauth:sl9rflfdc8ilye6iz1g7fkukdd19bh
+
+i64xwipfpnwhi49sjylw41xbxy8qx7
+
+What we save in tags from the IRC bot:
+{'badge-info': None, 'badges': 'broadcaster/1', 'client-nonce': '4ac6b3491d47b56d12d59268cea483ad', 'color': '#FF69B4',
+'display-name': 'NoiseCow', 'emotes': None, 'flags': None, 'id': '18686ee0-473f-495f-985d-8551dead408c', 'mod': '0',
+'room-id': '37548398', 'subscriber': '0', 'tmi-sent-ts': '1600198143236', 'turbo': '0', 'user-id': '37548398', 'user-type': None}
